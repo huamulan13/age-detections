@@ -1,0 +1,16 @@
+*.mp4
+face_database/*.jpg
+face_database/*.png
+video/*
+video-meet/*
+pak_anan_video/*
+meet/
+ia_image_sequence
+crop/
+iqbal.py
+uji.py
+pustaka/__pycache__/
+*.h5
+tugas.txt
+t.txt
+*.dat
